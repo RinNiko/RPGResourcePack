@@ -1,0 +1,12 @@
+{
+	"credit": "xIceZ",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "gui/custom/010"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, 0, 0]
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "gui/custom/menu_arrow"
+	},
+	"display": {
+		"gui": {
+			"translation": [-3, 0, 0]
+		}
+	}
+}

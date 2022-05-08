@@ -1,0 +1,354 @@
+{
+    "providers": [
+	{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/health_boss_bar.png",
+            "ascent": 15,
+            "height": 19,
+            "chars": [
+                "\u9600",
+                "\u9601",
+                "\u9602",
+                "\u9603",
+                "\u9604",
+                "\u9605",
+                "\u9606",
+                "\u9607",
+                "\u9608",
+                "\u9609",
+                "\u9610"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/damage.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": [
+                "\u9700",
+                "\u9701",
+                "\u9702",
+                "\u9703",
+                "\u9704",
+                "\u9705",
+                "\u9706",
+                "\u9707",
+                "\u9708",
+				"\u9709"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/critical.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": [
+                "\u970a"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/mythic_sky.png",
+            "ascent": 40,
+            "height": 40,
+            "chars": [
+                "\u88a0"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/mythic_sky2.png",
+            "ascent": 40,
+            "height": 40,
+            "chars": [
+                "\u88a1"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/mythic_sky3.png",
+            "ascent": 40,
+            "height": 40,
+            "chars": [
+                "\u88a2"
+            ]
+        },		
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/space_nosplit.png",
+            "ascent": -32768,
+            "height": 16,
+            "chars": [
+                "\u96a1"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/space_nosplit.png",
+            "ascent": -32768,
+            "height": -32,
+            "chars": [
+                "\u96a3"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/vine.png",
+            "ascent": 8,
+            "height": 100,
+            "chars": [
+                "\u96a2"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/khung_tab.png",
+            "ascent": 15,
+            "height": 32,
+            "chars": [
+                "\u96a4",
+                "\u96a5"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/rank/member.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u9501"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/rank/rank.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u9710\u9714\u9718\u971c",
+                "\u9711\u9715\u9719\u971d",
+                "\u9712\u9716\u971a\u971e",
+                "\u9713\u9717\u971b\u971f"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/rank/member.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u972a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/rank/member_icon.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u972b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/rank/leader_icon.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u972c"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/khung_he.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u9400",
+                "\u9401",
+                "\u9402",
+                "\u9403",
+                "\u9404",
+                "\u9405",
+                "\u9406",
+                "\u9407"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/space_split.png",
+            "ascent": -8,
+            "height": -8,
+            "chars": [
+                "\u99ab"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/magical_tree.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u99ac"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/space_split.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uf801"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/close_menu.png",
+			"ascent": 9,
+            "height": 11,
+            "chars": [
+                "\u99ad"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/storage.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u99af"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/menu.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u99ba"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/island.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u99bb"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/shop.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u99bc"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/blacksmith.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u99bd"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/gems.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u99be"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/quest.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u99ca"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/critical.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": [
+                "\u9990"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/buy-sell.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u9991"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/rank.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u9992"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/talisman.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u9993"
+            ]
+        }, 	
+	{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/info.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u9994"
+            ]
+        }, 
+	{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/skill.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u9995"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/pot.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u9996"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/buy-sell_more.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u9997"
+            ]
+        },
+        {
+            "type": "legacy_unicode",
+            "sizes": "minecraft:font/glyph_sizes.bin",
+            "template": "minecraft:font/unicode_page_%s.png"
+        }
+    ]
+}
