@@ -345,6 +345,15 @@
                 "\u9997"
             ]
         },
+    {
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/gui-mission-3.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u9998"
+            ]
+        },
         {
             "type": "legacy_unicode",
             "sizes": "minecraft:font/glyph_sizes.bin",
