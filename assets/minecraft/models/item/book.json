@@ -49,6 +49,6 @@
     { "predicate": {"custom_model_data": 43}, "model": "item/gui/earth_1"},
     { "predicate": {"custom_model_data": 44}, "model": "item/gui/earth_2"},
     { "predicate": {"custom_model_data": 45}, "model": "item/gui/earth_3"},
-    { "predicate": {"custom_model_data": 46}, "model": "item/gui/earth_4"},
+    { "predicate": {"custom_model_data": 46}, "model": "item/gui/earth_4"}
   ]
 }
