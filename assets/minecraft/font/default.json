@@ -336,6 +336,16 @@
                 "\u9996"
             ]
         },
+			
+	{
+            "type": "bitmap",
+            "file": "minecraft:gui/hud/gui-mission-3.png",
+            "ascent": 31,
+            "height": 256,
+            "chars": [
+                "\u9998"
+            ]
+        },
 	{
             "type": "bitmap",
             "file": "minecraft:gui/hud/buy-sell_more.png",
@@ -345,16 +355,8 @@
                 "\u9997"
             ]
         },
-    {
-            "type": "bitmap",
-            "file": "minecraft:gui/hud/gui-mission-3.png",
-            "ascent": 31,
-            "height": 256,
-            "chars": [
-                "\u9998"
-            ]
-        },
-        {
+        
+		{
             "type": "legacy_unicode",
             "sizes": "minecraft:font/glyph_sizes.bin",
             "template": "minecraft:font/unicode_page_%s.png"

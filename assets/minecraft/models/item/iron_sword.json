@@ -1,0 +1,34 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+
+	"overrides": [
+		
+
+		{ "predicate": { "custom_model_data": 100001 }, "model": "weapon/dagger/unnamed_dagger" },
+		{ "predicate": { "custom_model_data": 100002 }, "model": "weapon/dagger/iron_dagger"},
+		
+		{ "predicate": { "custom_model_data": 200001 }, "model": "weapon/axe/azure_greataxe" },
+		{ "predicate": { "custom_model_data": 200002 }, "model": "weapon/axe/skeleton_axe" },
+		{ "predicate": { "custom_model_data": 200003 }, "model": "weapon/axe/treacherous_axe"},
+
+			
+		{ "predicate": { "custom_model_data": 300001 }, "model": "weapon/sword/normal_sword"},
+		{ "predicate": { "custom_model_data": 300002 }, "model": "weapon/sword/azure_greatsword"},
+		{ "predicate": { "custom_model_data": 300003 }, "model": "weapon/sword/demonic_sword" },
+		{ "predicate": { "custom_model_data": 300004 }, "model": "weapon/sword/dragon_sword" },
+		{ "predicate": { "custom_model_data": 300005 }, "model": "weapon/sword/nature_sword" },
+		{ "predicate": { "custom_model_data": 300006 }, "model": "weapon/sword/spider_sword" },
+
+
+		{ "predicate": { "custom_model_data": 400001 }, "model": "weapon/greatsword/unnamed_greatsword" },
+
+	
+		{ "predicate": { "custom_model_data": 500001 }, "model": "weapon/katana/unnamed_katana" },
+
+		
+		{ "predicate": { "custom_model_data": 600001 }, "model": "weapon/spear/unnamed_spear" }
+	]
+}
