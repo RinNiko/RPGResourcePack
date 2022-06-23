@@ -21,3 +21,4 @@ jobs:
       with:
         artifacts: "MythicSky.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
+        tag: 'Lastest'
