@@ -16,5 +16,5 @@ jobs:
     - name: Update release
       uses: johnwbyrd/update-release@v1.0.0
       with:
-       token: ${{ secrets.YOUR_PRIVATE_SECRET_TOKEN }}
+       token: ${{ secrets.GITHUB_TOKEN }}
        asset: ./MythicSky.zip
