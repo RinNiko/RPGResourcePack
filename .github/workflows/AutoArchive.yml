@@ -13,9 +13,8 @@ jobs:
         filename: 'MythicSky.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
         
-    - name: Upload Release
-      uses: ncipollo/release-action@v1
+    - name: Update release
+      uses: johnwbyrd/update-release@v1
       with:
-        artifacts: "MythicSky.zip"
-        token: ${{ secrets.GITHUB_TOKEN }}
-        tag: 'Lastest'
+       token: ${{ secrets.YOUR_PRIVATE_SECRET_TOKEN }}
+       asset: ./MythicSky.zip
