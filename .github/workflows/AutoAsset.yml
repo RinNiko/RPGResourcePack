@@ -12,6 +12,7 @@ jobs:
         type: 'zip'
         filename: 'MythicSky.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
+        
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
