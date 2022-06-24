@@ -100,6 +100,15 @@
                 "\u96a2"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/custom/quest_sword.png",
+            "ascent": 8,
+            "height": 100,
+            "chars": [
+                "\u96a7"
+            ]
+        },
 		{
             "type": "bitmap",
             "file": "minecraft:gui/custom/khung_tab.png",
@@ -107,7 +116,7 @@
             "height": 32,
             "chars": [
                 "\u96a4",
-                "\u96a5"
+                "\u96a6"
             ]
         },
 		{
