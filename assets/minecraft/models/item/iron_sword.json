@@ -29,6 +29,11 @@
 		{ "predicate": { "custom_model_data": 500001 }, "model": "weapon/katana/unnamed_katana" },
 
 		
-		{ "predicate": { "custom_model_data": 600001 }, "model": "weapon/spear/unnamed_spear" }
+		{ "predicate": { "custom_model_data": 600001 }, "model": "weapon/spear/unnamed_spear" },
+
+            { "predicate": { "custom_model_data": 1}, "model": "item/dagger" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/knight_sword" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/viking_sword" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/viking_spear" }
 	]
 }
